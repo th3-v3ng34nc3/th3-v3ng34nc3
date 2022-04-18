@@ -6,11 +6,12 @@
 
 ### A budding Security Engineer<br>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE i(Cyber) from Lovely Professional University** <br>
+- 👨‍🏭 I’m currently pursuing **B.Tech CSE in (CyberSecurity) from Lovely Professional University** <br>
+- ✨ **C|EH by ec-council || eJPT by eLearn-Security** <br>
 - 🏫 I’m currently learning **Android Pentesting & Devops** <br>
 - 🙌 I’m looking to collaborate on **CTF** <br>
 - 🤔 I’m looking for help with **Bug Testing**<br>
-- 🥅 2021 Goals: **Geeting an internship** <br>
+- 🥅 2022 Goals: **Getting an internship** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
