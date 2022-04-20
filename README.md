@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=th3-v3ng34nc3&color=blue)<br>
 
-### A budding Security Engineer<br>
+### A budding Security Engineer | Ethical Hacker | CTF - Player <br>
 
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE in (CyberSecurity) from Lovely Professional University** <br>
 - ✨ **C|EH by ec-council || eJPT by eLearn-Security** <br>
