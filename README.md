@@ -11,7 +11,7 @@
 - 🏫 I’m currently learning **Android Pentesting & Devops** <br>
 - 🙌 I’m looking to collaborate on **CTF** <br>
 - 🤔 I’m looking for help with **Bug Testing**<br>
-- 🥅 2022 Goals: **Getting an internship** <br>
+- 🥅 2023 Goals: **Getting an internship** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
