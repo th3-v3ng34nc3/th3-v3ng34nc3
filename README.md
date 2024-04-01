@@ -6,12 +6,11 @@
 
 ### A budding Security Engineer | Ethical Hacker | CTF - Player <br>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE in (CyberSecurity) from Lovely Professional University** <br>
-- ✨ **C|EH by ec-council || eJPT by eLearn-Security** <br>
-- 🏫 I’m currently learning **Android Pentesting & Devops** <br>
+- 👨‍🏭 I have completed my Bachelor's **in (CyberSecurity) from Lovely Professional University** <br>
+- ✨ **C|EH by ec-council || eJPT by eLearn-Security || CKA by Linux Foundation** <br>
+- 🏫 I’m currently preparing for **CKS - Certified Kubernetes Security Specialist** <br>
 - 🙌 I’m looking to collaborate on **CTF** <br>
 - 🤔 I’m looking for help with **Bug Testing**<br>
-- 🥅 2023 Goals: **Getting an internship** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
