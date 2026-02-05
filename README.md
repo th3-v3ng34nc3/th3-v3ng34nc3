@@ -43,16 +43,19 @@
 
 <div align="center">
   <a href="https://github.com/th3-v3ng34nc3">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
   </a>
   
   <a href="https://github.com/th3-v3ng34nc3">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
   </a>
 </div>
-<br><br><br><br><br><br><br> <div align="center">
+
+<br>
+
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3-v3ng34nc3&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3-v3ng34nc3&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -68,4 +71,12 @@
   <a href="https://www.instagram.com/mr_rajvanshiii">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
