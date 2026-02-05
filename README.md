@@ -51,19 +51,12 @@
 
 ---
 
-<h3 align="center">📊 War Room Stats</h3>
-
+<h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <a href="https://github.com/th3-v3ng34nc3">
-    <img src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/th3-v3ng34nc3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=th3-v3ng34nc3&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
   </a>
 </div>
-
-<br>
 
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&is_sarcastic=true" alt="Dev Quote" />
