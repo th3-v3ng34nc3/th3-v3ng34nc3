@@ -27,7 +27,7 @@
 
 ---
 
-## `> ls ./certifications`
+## 🔐 Certifications
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## `> cat ./arsenal.txt`
+## 🛠️ Arsenal
 
 <br/>
 
@@ -77,7 +77,7 @@
 
 ---
 
-## `> ./threat_surface_coverage.sh`
+## 📊 Threat Surface Coverage
 
 ```
 Cloud Native Security  ████████████████████████░  95%
@@ -89,7 +89,7 @@ Infrastructure as Code ███████████████████
 
 ---
 
-## `> ./run_stats.sh`
+## 📈 Stats
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Infrastructure as Code ███████████████████
 
 ---
 
-## `> tail -f ./activity.log`
+## 🖥️ Activity
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Infrastructure as Code ███████████████████
 
 ---
 
-## `> ./comms --list`
+## 📡 Comms
 
 <div align="center">
 
