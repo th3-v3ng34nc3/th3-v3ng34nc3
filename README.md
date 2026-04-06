@@ -43,32 +43,42 @@
 
 ## 🛠️ Arsenal
 
-<br/>
+### ☸ Cloud & Container
 
 <div align="center">
-
-**☸ &nbsp;Cloud & Container**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**⚔️ &nbsp;Offensive Security**
+</div>
+
+### ⚔️ Offensive Security
+
+<div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F26622?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**🛡️ &nbsp;Defensive / DevSecOps**
+</div>
+
+### 🛡️ Defensive / DevSecOps
+
+<div align="center">
 
 ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-00A550?style=for-the-badge&logo=aquasec&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**💻 &nbsp;Languages**
+</div>
+
+### 💻 Languages
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -79,13 +89,15 @@
 
 ## 📊 Threat Surface Coverage
 
-```
-Cloud Native Security  ████████████████████████░  95%
-Kubernetes Hardening   ███████████████████████░░  92%
-Penetration Testing    ██████████████████████░░░  88%
-DevSecOps / CI-CD      █████████████████████░░░░  85%
-Infrastructure as Code ████████████████████░░░░░  82%
-```
+<div align="center">
+
+![Cloud Native Security](https://img.shields.io/badge/Cloud%20Native%20Security-95%25-D90429?style=flat-square&labelColor=0d0d0d&color=D90429)
+![Kubernetes Hardening](https://img.shields.io/badge/Kubernetes%20Hardening-92%25-D90429?style=flat-square&labelColor=0d0d0d&color=D90429)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-88%25-D90429?style=flat-square&labelColor=0d0d0d&color=D90429)
+![DevSecOps / CI-CD](https://img.shields.io/badge/DevSecOps%20%2F%20CI--CD-85%25-D90429?style=flat-square&labelColor=0d0d0d&color=D90429)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-82%25-D90429?style=flat-square&labelColor=0d0d0d&color=D90429)
+
+</div>
 
 ---
 
