@@ -1,37 +1,37 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ADITYA RAJ — README.md               -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D90429&height=200&section=header&text=ADITYA%20RAJ&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Native%20%7C%20Kubernetes%20Guardian&descAlignY=58&descSize=16&descColor=ff6b6b&animation=fadeIn" width="100%" />
+<!-- STATUS -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1000&color=D90429&center=true&vCenter=true&width=400&lines=%5B+%E2%97%8F+OPERATOR+ONLINE+%5D" alt="status" />
 
-<!-- OPERATOR STATUS -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=D90429&center=true&vCenter=true&width=600&lines=%5B+OPERATOR+ONLINE+%5D;%5B+BREAKING+INFRA+TO+BUILD+IT+STRONGER+%5D;%5B+CLOUD+NATIVE+SECURITY+%7C+KUBERNETES+%7C+PENTESTING+%5D;%5B+CEH+%7C+eJPT+%7C+CKA+CERTIFIED+%5D" alt="Typing SVG" />
+<!-- NAME -->
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=72&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&lines=ADITYA.RAJ" alt="Aditya Raj" />
+</h1>
+
+<!-- TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Security+Engineer+%C2%B7+Cloud+Native+%C2%B7+Kubernetes+Guardian" alt="tagline" />
+
+<br/><br/>
+
+<!-- MOTTO BLOCK -->
+<table>
+<tr>
+<td>
+
+```
+  Na Dainyam · Na Palayanam
+  ──────────────────────────
+  Never beg. Never run away.
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- SANSKRIT MOTTO -->
-> ### *"Na Dainyam · Na Palayanam"*
-> **Never beg. Never run away.**
-
-<br/>
-
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=th3-v3ng34nc3&color=D90429&style=for-the-badge&label=INFILTRATIONS" />
-&nbsp;
-<a href="https://www.linkedin.com/in/th3-v3ng34nc3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/_v3ng34nc3_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mr_rajvanshiii">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<!-- VISITOR -->
+<img src="https://komarev.com/ghpvc/?username=th3-v3ng34nc3&color=D90429&style=for-the-badge&label=VISITORS" />
 
 </div>
 
@@ -40,17 +40,9 @@
 ## `> whoami`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  NAME     :  Aditya Raj                                      │
-│  ROLE     :  Security Engineer                               │
-│  FOCUS    :  Cloud Native Security & Kubernetes              │
-│  CERTS    :  CEH | eJPT | CKA                               │
-│  MOTTO    :  I break infrastructure to build it stronger     │
-│  STATUS   :  [ ● ACTIVE ]                                    │
-└─────────────────────────────────────────────────────────────┘
+I am a Security Engineer specializing in Cloud Native Security and Kubernetes.
+I break infrastructure to build it stronger.
 ```
-
-I'm a Security Engineer operating at the intersection of **Cloud Native Security** and **Offensive Techniques**. I specialize in hardening Kubernetes environments, building DevSecOps pipelines, and breaking things before attackers do.
 
 ---
 
@@ -58,9 +50,9 @@ I'm a Security Engineer operating at the intersection of **Cloud Native Security
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-D90429?style=for-the-badge&logo=hackthebox&logoColor=white)
-![eJPT](https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-1a1a2e?style=for-the-badge&logo=elearnsecurity&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CEH](https://img.shields.io/badge/■%20CEH-D90429?style=for-the-badge&logoColor=white)
+![eJPT](https://img.shields.io/badge/■%20eJPT-1a1a2e?style=for-the-badge&logoColor=white)
+![CKA](https://img.shields.io/badge/■%20CKA-111117?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -68,7 +60,9 @@ I'm a Security Engineer operating at the intersection of **Cloud Native Security
 
 ## `> cat ./arsenal.txt`
 
-### ☸ Cloud & Container
+<br/>
+
+**☸ &nbsp;Cloud & Container**
 
 <div align="center">
 
@@ -76,44 +70,51 @@ I'm a Security Engineer operating at the intersection of **Cloud Native Security
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 </div>
 
-### ⚔️ Offensive Security
+**⚔️ &nbsp;Offensive Security**
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F26622?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 </div>
 
-### 🛡️ Defensive & DevSecOps
+**🛡️ &nbsp;Defensive / DevSecOps**
 
 <div align="center">
 
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-00A550?style=for-the-badge&logo=aquasec&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-Gatekeeper-7B42BC?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 
 </div>
 
-### 💻 Languages
+**💻 &nbsp;Languages**
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
+
+---
+
+## `> ./threat_surface_coverage.sh`
+
+```
+Cloud Native Security  ████████████████████████░  95%
+Kubernetes Hardening   ███████████████████████░░  92%
+Penetration Testing    ██████████████████████░░░  88%
+DevSecOps / CI-CD      █████████████████████░░░░  85%
+Infrastructure as Code ████████████████████░░░░░  82%
+```
 
 ---
 
@@ -121,9 +122,9 @@ I'm a Security Engineer operating at the intersection of **Cloud Native Security
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=D90429&icon_color=D90429&text_color=e8e8e8&ring_color=D90429" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=D90429&icon_color=D90429&text_color=e8e8e8&ring_color=D90429" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=D90429&text_color=e8e8e8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=D90429&text_color=e8e8e8" />
 
 </div>
 
@@ -159,19 +160,26 @@ I'm a Security Engineer operating at the intersection of **Cloud Native Security
 
 ---
 
-## `> cat /etc/motd`
+## `> ./comms --list`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<a href="https://www.linkedin.com/in/th3-v3ng34nc3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/_v3ng34nc3_">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/mr_rajvanshiii">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D90429&height=100&section=footer&text=Stay%20Dangerous&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-
+<sub><code>// I break infrastructure to build it stronger</code></sub>
 </div>
