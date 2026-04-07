@@ -161,43 +161,11 @@
 <details>
 <summary><b>🐍 Want the contribution snake animation?</b></summary>
 <br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: th3-v3ng34nc3
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=D90429
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-```
-
-Then add to your README:
-```markdown
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake.svg"/>
   <img src="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake.svg" alt="Snake Animation"/>
 </picture>
-```
-
 </details>
 
 <br/>
