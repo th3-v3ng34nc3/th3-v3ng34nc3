@@ -1,31 +1,31 @@
-<!-- HEADER BANNER — deep red → black custom gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D90429,50:8B0000,100:0d0d0d&height=220&section=header&text=ADITYA%20RAJ&fontSize=72&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Security%20Engineer%20%C2%B7%20Cloud%20Native%20%C2%B7%20Kubernetes%20Guardian&descAlignY=62&descSize=15&descColor=cc2222&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════ HEADER ══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D90429,40:8B0000,100:0d0d0d&height=230&section=header&text=ADITYA%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Security%20Engineer%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20Kubernetes%20Guardian&descAlignY=62&descSize=16&descColor=FF4444&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=800&color=D90429&center=true&vCenter=true&width=350&lines=%E2%97%8F+OPERATOR+ONLINE+%E2%97%8F;%E2%96%88+SYSTEMS+NOMINAL+%E2%96%88;%5B+THREAT+LEVEL%3A+CRITICAL+%5D" alt="status" />
+<!-- Status cycling -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1500&color=D90429&center=true&vCenter=true&width=400&lines=%E2%97%8F+OPERATOR+ONLINE+%E2%97%8F;%5B+SYSTEMS%3A+NOMINAL+%5D;%5B+THREAT+LEVEL%3A+MAXIMUM+%5D;%E2%96%88+HUNTING+ACTIVE+%E2%96%88" alt="status" />
 
 <br/>
 
+<!-- Socials -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th3-v3ng34nc3/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_v3ng34nc3_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_rajvanshiii)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=th3-v3ng34nc3&color=D90429&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<!-- MOTTO — dramatic, red-themed typography -->
+<!-- ═══════════════════════════════════════════ MOTTO ═══════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=36&pause=99999&color=D90429&center=true&vCenter=true&width=750&height=55&lines=%E2%80%9C+Na+Dainyam+%C2%B7+Na+Palayanam+%E2%80%9D" alt="motto" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=14&pause=99999&color=8B0000&center=true&vCenter=true&width=500&height=30&lines=Never+beg.+Never+retreat.+Never+surrender." alt="motto-sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=40&pause=99999&color=D90429&center=true&vCenter=true&width=800&height=60&lines=%E2%9D%9D+Na+Dainyam+%C2%B7+Na+Palayanam+%E2%9D%9E" alt="motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=14&pause=99999&color=8B0000&center=true&vCenter=true&width=500&height=28&lines=Never+beg.+%E2%80%94+Never+retreat.+%E2%80%94+Never+surrender." alt="motto-sub" />
 
 </div>
 
@@ -33,22 +33,25 @@
 
 ---
 
-<!-- IDENTITY BLOCK -->
+<!-- ═══════════════════════════════════════════ IDENTITY ════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=3000&color=D90429&center=true&vCenter=true&width=700&lines=Security+Engineer+%7C+CEH+%7C+eJPT+%7C+CKA+%7C+th3-v3ng34nc3" alt="identity" />
+
+</div>
+
 ```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   alias     ──  th3-v3ng34nc3                                    ║
-║   role      ──  Security Engineer · DevSecOps · Cloud Native    ║
-║   certs     ──  CEH  ·  eJPT  ·  CKA                           ║
-║   mission   ──  Break infrastructure. Build it stronger.        ║
-║   status    ──  [ ██████████ ACTIVE ]  Threat hunting at scale  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+alias    :  th3-v3ng34nc3
+role     :  Security Engineer  ·  DevSecOps  ·  Cloud Native
+mission  :  Break infrastructure. Build it stronger.
+focus    :  Kubernetes hardening · Zero-trust pipelines · Threat hunting
+status   :  ◉  ACTIVE — hunting threats at cloud scale
 ```
 
 ---
 
-<!-- CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════ CERTIFICATIONS ══════════════════════════════════ -->
+
 <div align="center">
 
 ### 🎖️ Certifications
@@ -57,21 +60,24 @@
 
 <table>
 <tr>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/EC--Council-D90429?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0d0d0d" /><br/>
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-D90429?style=flat-square&labelColor=1a0000&logoColor=white" /><br/>
-  <sub><code>Offensive Security · Active</code></sub>
-</td>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/INE%20Security-444444?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" /><br/>
-  <img src="https://img.shields.io/badge/eJPT-Junior%20Pen%20Tester-555555?style=flat-square&labelColor=111111&logoColor=white" /><br/>
-  <sub><code>Penetration Testing · Active</code></sub>
-</td>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/CNCF-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0d0d" /><br/>
-  <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326CE5?style=flat-square&labelColor=001a40&logoColor=white" /><br/>
-  <sub><code>Cloud Native · Active</code></sub>
-</td>
+  <td align="center" width="240">
+    <img width="90" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="CEH Badge"/><br/><br/>
+    <b>Certified Ethical Hacker</b><br/>
+    <img src="https://img.shields.io/badge/CEH-EC--Council-D90429?style=flat-square&labelColor=0d0d0d"/><br/>
+    <sub>Offensive Security</sub>
+  </td>
+  <td align="center" width="240">
+    <img width="90" src="https://images.credly.com/size/340x340/images/12d781c3-1e59-4f17-9d46-d183f3f2e4f8/image.png" alt="CKA Badge"/><br/><br/>
+    <b>Kubernetes Administrator</b><br/>
+    <img src="https://img.shields.io/badge/CKA-CNCF-326CE5?style=flat-square&labelColor=0d0d0d"/><br/>
+    <sub>Cloud Native</sub>
+  </td>
+  <td align="center" width="240">
+    <img width="90" src="https://images.credly.com/size/340x340/images/14744318-8d6b-4bdf-8c63-90e0bd411f11/image.png" alt="eJPT Badge"/><br/><br/>
+    <b>Junior Penetration Tester</b><br/>
+    <img src="https://img.shields.io/badge/eJPT-INE%20Security-555555?style=flat-square&labelColor=0d0d0d"/><br/>
+    <sub>Penetration Testing</sub>
+  </td>
 </tr>
 </table>
 
@@ -79,7 +85,8 @@
 
 ---
 
-<!-- ARSENAL -->
+<!-- ═══════════════════════════════════════════ ARSENAL ════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🛠️ Arsenal
@@ -114,84 +121,69 @@
 
 ---
 
-<!-- THREAT SURFACE COVERAGE — enhanced visual design -->
+<!-- ═══════════════════════════════════════════ THREAT COVERAGE ════════════════════════════════ -->
+
 <div align="center">
 
 ### 📡 Threat Surface Coverage
 
 <br/>
 
-<table width="700">
-<thead>
-  <tr>
-    <th align="left" width="260">Domain</th>
-    <th align="center" width="320">Coverage</th>
-    <th align="center" width="100">Level</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>☁️ &nbsp;<b>Cloud Native Security</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/95%25-D90429?style=for-the-badge&labelColor=1a0000&color=D90429" />
-      &nbsp;
-      <img src="https://progress-bar.xyz/95/?scale=100&title=&width=180&color=D90429&suffix=%25" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/EXPERT-D90429?style=flat-square&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td>☸️ &nbsp;<b>Kubernetes Hardening</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/92%25-C0021E?style=for-the-badge&labelColor=1a0000&color=C0021E" />
-      &nbsp;
-      <img src="https://progress-bar.xyz/92/?scale=100&title=&width=180&color=C0021E&suffix=%25" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/EXPERT-C0021E?style=flat-square&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td>🗡️ &nbsp;<b>Penetration Testing</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/88%25-991515?style=for-the-badge&labelColor=1a0000&color=991515" />
-      &nbsp;
-      <img src="https://progress-bar.xyz/88/?scale=100&title=&width=180&color=991515&suffix=%25" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/ADVANCED-991515?style=flat-square&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td>🔄 &nbsp;<b>DevSecOps / CI-CD</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/85%25-7A1010?style=for-the-badge&labelColor=1a0000&color=7A1010" />
-      &nbsp;
-      <img src="https://progress-bar.xyz/85/?scale=100&title=&width=180&color=7A1010&suffix=%25" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/ADVANCED-7A1010?style=flat-square&labelColor=0d0d0d" /></td>
-  </tr>
-  <tr>
-    <td>📐 &nbsp;<b>Infrastructure as Code</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/82%25-5C0D0D?style=for-the-badge&labelColor=1a0000&color=5C0D0D" />
-      &nbsp;
-      <img src="https://progress-bar.xyz/82/?scale=100&title=&width=180&color=5C0D0D&suffix=%25" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/ADVANCED-5C0D0D?style=flat-square&labelColor=0d0d0d" /></td>
-  </tr>
-</tbody>
+<table width="100%">
+<tr>
+  <th align="left" width="30%">Domain</th>
+  <th align="left" width="60%">Coverage</th>
+  <th align="center" width="10%">Level</th>
+</tr>
+<tr>
+  <td>☁️ &nbsp;<b>Cloud Native Security</b></td>
+  <td><img src="https://progress-bar.xyz/95/?scale=100&title=%20&width=380&color=D90429&suffix=%" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/EXPERT-D90429?style=flat-square&labelColor=1a0000"/></td>
+</tr>
+<tr>
+  <td>☸️ &nbsp;<b>Kubernetes Hardening</b></td>
+  <td><img src="https://progress-bar.xyz/92/?scale=100&title=%20&width=380&color=C0021E&suffix=%" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/EXPERT-C0021E?style=flat-square&labelColor=1a0000"/></td>
+</tr>
+<tr>
+  <td>🗡️ &nbsp;<b>Penetration Testing</b></td>
+  <td><img src="https://progress-bar.xyz/88/?scale=100&title=%20&width=380&color=991515&suffix=%" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/ADVANCED-991515?style=flat-square&labelColor=1a0000"/></td>
+</tr>
+<tr>
+  <td>🔄 &nbsp;<b>DevSecOps / CI-CD</b></td>
+  <td><img src="https://progress-bar.xyz/85/?scale=100&title=%20&width=380&color=7A1010&suffix=%" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/ADVANCED-7A1010?style=flat-square&labelColor=1a0000"/></td>
+</tr>
+<tr>
+  <td>📐 &nbsp;<b>Infrastructure as Code</b></td>
+  <td><img src="https://progress-bar.xyz/82/?scale=100&title=%20&width=380&color=5C0D0D&suffix=%" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/ADVANCED-5C0D0D?style=flat-square&labelColor=1a0000"/></td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════ STATS ══════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D90429&icon_color=D90429&text_color=e8e8e8&ring_color=D90429&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D90429&text_color=e8e8e8&langs_count=6" />
+<!-- Using github-profile-summary-cards — more reliable alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3-v3ng34nc3&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=th3-v3ng34nc3&theme=github_dark" height="175em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=th3-v3ng34nc3&theme=github_dark" height="175em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=th3-v3ng34nc3&theme=github_dark&utcOffset=5.5" height="175em"/>
 
 <br/><br/>
 
@@ -201,10 +193,11 @@
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════ ACTIVITY GRAPH ═════════════════════════════════ -->
+
 <div align="center">
 
-### 🔥 Contribution Graph
+### 🔥 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=th3-v3ng34nc3&theme=tokyo-night&hide_border=true&area=true&area_color=D90429&color=D90429&line=D90429&point=ffffff&bg_color=0d0d0d" width="100%" />
 
@@ -212,24 +205,8 @@
 
 ---
 
-<!-- SNAKE — only shows once the GitHub Action has been set up -->
-<div align="center">
+<!-- ═══════════════════════════════════════════ CONNECT ════════════════════════════════════════ -->
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/th3-v3ng34nc3/th3-v3ng34nc3/output/github-snake.svg" width="100%"/>
-</picture>
-
-<sub><i>Set up the snake: create <code>.github/workflows/snake.yml</code> using <a href="https://github.com/Platane/snk">Platane/snk@v3</a> with <code>color_snake=D90429</code></i></sub>
-
-</div>
-
----
-
-<!-- CONNECT -->
 <div align="center">
 
 ### 📡 Connect
@@ -244,8 +221,8 @@
 
 </div>
 
-<!-- FOOTER BANNER — mirrors header gradient, reversed -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:D90429&height=120&section=footer&reversal=false" width="100%"/>
+<!-- ═══════════════════════════════════════════ FOOTER ══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:8B0000,100:D90429&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <sub><code>// I break infrastructure to build it stronger &nbsp;·&nbsp; © Aditya Raj · th3-v3ng34nc3</code></sub>
