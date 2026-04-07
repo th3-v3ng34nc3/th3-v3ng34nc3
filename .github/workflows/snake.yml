@@ -1,23 +1,22 @@
-name: Generate Fire Snake
-
+name: Snake Animation
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: th3-v3ng34nc3
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#D90429&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-      
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=D90429
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
