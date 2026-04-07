@@ -61,19 +61,19 @@ status   :  ◉  ACTIVE — hunting threats at cloud scale
 <table>
 <tr>
   <td align="center" width="240">
-    <img width="90" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="CEH Badge"/><br/><br/>
+    <img width="90" src="[https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png](https://miro.medium.com/v2/resize:fit:704/1*AACYGebMqJXYj3jyHaDP7g.png)" alt="CEH Badge"/><br/><br/>
     <b>Certified Ethical Hacker</b><br/>
     <img src="https://img.shields.io/badge/CEH-EC--Council-D90429?style=flat-square&labelColor=0d0d0d"/><br/>
     <sub>Offensive Security</sub>
   </td>
   <td align="center" width="240">
-    <img width="90" src="https://images.credly.com/size/340x340/images/12d781c3-1e59-4f17-9d46-d183f3f2e4f8/image.png" alt="CKA Badge"/><br/><br/>
+    <img width="90" src="[https://images.credly.com/size/340x340/images/12d781c3-1e59-4f17-9d46-d183f3f2e4f8/image.png](https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)" alt="CKA Badge"/><br/><br/>
     <b>Kubernetes Administrator</b><br/>
     <img src="https://img.shields.io/badge/CKA-CNCF-326CE5?style=flat-square&labelColor=0d0d0d"/><br/>
     <sub>Cloud Native</sub>
   </td>
   <td align="center" width="240">
-    <img width="90" src="https://images.credly.com/size/340x340/images/14744318-8d6b-4bdf-8c63-90e0bd411f11/image.png" alt="eJPT Badge"/><br/><br/>
+    <img width="90" src="[https://images.credly.com/size/340x340/images/14744318-8d6b-4bdf-8c63-90e0bd411f11/image.png](https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3)" alt="eJPT Badge"/><br/><br/>
     <b>Junior Penetration Tester</b><br/>
     <img src="https://img.shields.io/badge/eJPT-INE%20Security-555555?style=flat-square&labelColor=0d0d0d"/><br/>
     <sub>Penetration Testing</sub>
