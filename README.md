@@ -61,7 +61,7 @@ status   :  ◉  ACTIVE — hunting threats at cloud scale
 <table>
 <tr>
   <td align="center" width="240">
-    <img width="90" src="[https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png](https://miro.medium.com/v2/resize:fit:704/1*AACYGebMqJXYj3jyHaDP7g.png)" alt="CEH Badge"/><br/><br/>
+    <img width="90" src="[https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3](https://miro.medium.com/v2/resize:fit:704/1*AACYGebMqJXYj3jyHaDP7g.png)" alt="CEH Badge"/><br/><br/>
     <b>Certified Ethical Hacker</b><br/>
     <img src="https://img.shields.io/badge/CEH-EC--Council-D90429?style=flat-square&labelColor=0d0d0d"/><br/>
     <sub>Offensive Security</sub>
